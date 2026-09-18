@@ -1,6 +1,6 @@
 # Data Analytics Learning Journey
 
-Hi, I'm Sanskriti | B.Tech CSE Student | Aspiring Data Analyst from Indore
+Hi, I'm Sanskriti Namdev | B.Tech CSE Student | Aspiring Data Analyst from Indore
 
 Welcome to my learning journey!
 
